@@ -88,7 +88,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 
 - **LinkedIn:** [Shounak Kulkarni](https://www.linkedin.com/in/shounakkulkarni7/)
 - **GitHub:** [shounakkulkarni](https://github.com/shoukul7)
-- **Email:** [shounak.kulkarni@example.com](mailto:shounak2202@gmail.com) 
+- **Email:** [shounak2202@gmail.com](mailto:shounak2202@gmail.com) 
 
 
 ## ⚡ Fun Fact
