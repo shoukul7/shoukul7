@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **Experienced in AI, Data Engineering, and Software Development**
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)"  />
@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 
 
 
-## 💡 **Key Interests:**
+## 💡**Key Interests:**
 - **Data Engineering & Analysis**  
 - **Artificial Intelligence & Machine Learning**  
 - **Big Data Analytics**  
