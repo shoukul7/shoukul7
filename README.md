@@ -85,12 +85,6 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **Soccer Player Valuation Modeling** – Predicting player value using statistical and machine learning models
 
 
-## 📬 Get in Touch
-
-Feel free to connect with me!
-
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shounak-kulkarni)  
-- **Email**: [shounak.kulkarni@email.com](mailto:shounak.kulkarni@email.com)
 
 ## ⚡ Fun Fact
 
