@@ -38,22 +38,22 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 
 ## 💼 Work Experience
 
-## **Research AI Assistant** | Buleb0x
+#### **Research AI Assistant** | Buleb0x
 
 - Developed AI-driven solutions leveraging deep learning, NLP, and computer vision for business intelligence.
 - Conducted research on generative AI models and optimized ML pipelines.
 
-## **Data Integration Assistant** | University of Massachusetts, Boston
+#### **Data Integration Assistant** | University of Massachusetts, Boston
 
 - Designed ETL pipelines for large-scale data processing.
 - Developed data visualization dashboards to present actionable insights.
 
-## **Application Developer** | Yardi Systems
+#### **Application Developer** | Yardi Systems
 
 - Managed financial reporting solutions for enterprise clients using SQL and Oracle.
 - Automated data workflows to improve system efficiency.
 
-## **Research Data Analyst** | Novum Technologies
+#### **Research Data Analyst** | Novum Technologies
 
 - Conducted image processing-based analysis for gear manufacturing process optimization.
 - Utilized Python and R for data-driven insights to enhance operational efficiency.
