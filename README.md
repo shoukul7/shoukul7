@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 
 
 
-## 💡**Key Interests:**
+## 💡 **Key Interests:**
 - **Data Engineering & Analysis**  
 - **Artificial Intelligence & Machine Learning**  
 - **Big Data Analytics**  
