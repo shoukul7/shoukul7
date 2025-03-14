@@ -84,6 +84,11 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **Data Analysis for Uber and Lyft** – Analyzing and deriving insights from ride-sharing data  
 - **Soccer Player Valuation Modeling** – Predicting player value using statistical and machine learning models
 
+# 📫 Connect with Me
+
+- **LinkedIn:** [Shounak Kulkarni](https://www.linkedin.com/in/shounakkulkarni7/)
+- **GitHub:** [shounakkulkarni](https://github.com/shoukul7)
+- **Email:** [shounak.kulkarni@example.com](mailto:shounak2202@gmail.com) 
 
 
 ## ⚡ Fun Fact
