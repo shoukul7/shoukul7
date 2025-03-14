@@ -18,16 +18,18 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **Microsoft Azure DP-203 & Oracle Generative AI Certified**
 - **Experienced in AI, Data Engineering, and Software Development**
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shoukul7&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=shoukul7&icon=8&color=6)](https://visitcount.itsvg.in)
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shoukul7&theme=midnight-purple&hide_border=true" br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"  />
+</div>
 
 
+
+###
 💡 **Key Interests:**
 - **Data Engineering & Analysis**  
 - **Artificial Intelligence & Machine Learning**  
