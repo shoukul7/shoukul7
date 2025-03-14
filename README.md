@@ -29,8 +29,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 
 
 
-###
-💡 **Key Interests:**
+## 💡 **Key Interests:**
 - **Data Engineering & Analysis**  
 - **Artificial Intelligence & Machine Learning**  
 - **Big Data Analytics**  
@@ -59,16 +58,14 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - Conducted image processing-based analysis for gear manufacturing process optimization.
 - Utilized Python and R for data-driven insights to enhance operational efficiency.
 
----
-
-### 🎓 Education
+## 🎓 Education
 
 - **Master’s in Business Analytics**, University of Massachusetts, Boston  
   *GPA: 3.75*  
 - **B.Tech in Computer Science Engineering**, University of Pune, India  
   *GPA: 3.75*
 
-### 🧰 Skills
+## 🧰 Skills
 
 - **Programming**: Python, R, Java, SQL, JavaScript, C/C++
 - **Data Science & AI**: PyTorch, Keras, TensorFlow, NLP
@@ -76,26 +73,26 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **Business Intelligence**: Tableau, Power BI
 - **Cloud**: Microsoft Azure, Oracle Generative AI
 
-### 🏆 Certifications
+## 🏆 Certifications
 
 - **Microsoft Azure DP-203**  
 - **Oracle Generative AI**
 
-### 💼 Projects & Experience
+## 💼 Projects & Experience
 
 - **Customer Experience Enhancement** using NLP techniques  
 - **Data Analysis for Uber and Lyft** – Analyzing and deriving insights from ride-sharing data  
 - **Soccer Player Valuation Modeling** – Predicting player value using statistical and machine learning models
 
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 
 Feel free to connect with me!
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shounak-kulkarni)  
 - **Email**: [shounak.kulkarni@email.com](mailto:shounak.kulkarni@email.com)
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 In addition to data and technology, I have a passion for **sports**, having played **football (soccer)** and other games during my free time!
 
