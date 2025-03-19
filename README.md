@@ -97,9 +97,6 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **Email:** [shounak2202@gmail.com](mailto:shounak2202@gmail.com) 
 
 
-## ⚡ Fun Fact
-
-In addition to data and technology, I have a passion for **sports**, having played **football (soccer)** and other games during my free time!
 
 ---
 
