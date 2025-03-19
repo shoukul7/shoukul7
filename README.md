@@ -94,12 +94,12 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a foc
 
 
 
-### **Video Summarization for Home Surveillance | Data Visualization and Image Processing**
+### **Video Summarization for Home Surveillance**
 - **Description:** Developed and implemented an advanced video summarization algorithm using object tracking technology, enhanced with LSTM and YOLO algorithms.
 - **Key Technologies:** Python, OpenCV, YOLO, LSTM, Object Tracking, Deep Learning.
 - **Outcome:** Achieved a 92% accuracy rate in recognizing over 200+ individuals, significantly improving the efficiency of home surveillance systems by reducing the need for manual video review.
 
-### **Contextual Business Intelligence Assistant using RAG | Data Science and Business Intelligence**
+### **Contextual Business Intelligence Assistant using RAG**
 - **Description:** Created a Retrieval-Augmented Generation (RAG)-based Business Intelligence (BI) Assistant that allowed for real-time data retrieval and enhanced decision-making processes.
 - **Key Technologies:** Elasticsearch, NLP, Generative AI (OpenAI), Business Intelligence.
 - **Outcome:** Reduced the time spent by business leaders on accessing critical insights by 40%, increased retrieval accuracy by 30%, and boosted user engagement by 25%.
