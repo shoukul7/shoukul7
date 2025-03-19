@@ -66,9 +66,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a foc
 ## 🎓 Education
 
 - **Master’s in Business Analytics**, University of Massachusetts, Boston  
-  *GPA: 3.75*  
 - **B.Tech in Computer Science Engineering**, University of Pune, India  
-  *GPA: 3.75*
 
 ## 🏆 Certifications
 
