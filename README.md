@@ -114,7 +114,11 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a foc
 - **Key Technologies:** Python, Pandas, Scikit-learn, Machine Learning (Regression, Time Series), Data Visualization (Matplotlib, Seaborn).
 - **Outcome:** Developed a stock prediction model that helps investors make more informed decisions, achieving an accuracy rate of 85% in forecasting stock trends.
 
+### **Stock Price Prediction Using News Sentiment Analysis**
 
+ - **Description:** Developed a model that leverages sentiment analysis of news articles to predict stock price movements. Analyzed the correlation between news sentiments and stock price changes.
+ - **Key Technologies:** Python, NLP (TextBlob, Vader), Sentiment Analysis, Machine Learning (Regression, Time Series), Pandas.
+ - **Outcome:** Created a prediction model that accurately forecasts stock price trends, achieving an 85% accuracy rate based on sentiment analysis of news data.
 
 
 
