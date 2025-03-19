@@ -34,13 +34,6 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 ![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 
-## 📌 About Me
-
-- **Master's in Business Analytics** (University of Massachusetts, Boston, GPA: 3.75)
-- **Bachelor's in Computer Science Engineering** (University of Pune, GPA: 3.75)
-- **Microsoft Azure DP-203 & Oracle Generative AI Certified**
-- **Experienced in AI, Data Engineering, and Software Development**
-
 
 ## 📊 GitHub Stats
 
