@@ -75,9 +75,48 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a foc
 
 ## 💼 Projects & Experience
 
-- **Customer Experience Enhancement** using NLP techniques  
-- **Data Analysis for Uber and Lyft** – Analyzing and deriving insights from ride-sharing data  
-- **Soccer Player Valuation Modeling** – Predicting player value using statistical and machine learning models
+### **Customer Experience Enhancement using NLP Techniques**
+- **Description:** Leveraged Natural Language Processing (NLP) techniques to improve customer service, enhancing overall user satisfaction and experience.
+- **Key Technologies:** Python, NLP libraries (spaCy, NLTK), sentiment analysis, text classification.
+- **Outcome:** Streamlined customer interactions by automating sentiment analysis and feedback categorization, improving response times and user satisfaction.
+
+
+### **Data Analysis for Uber and Lyft**
+- **Description:** Analyzed and derived insights from ride-sharing data to identify trends and optimize operations, such as peak hours, trip duration, and fare prediction.
+- **Key Technologies:** Python, Pandas, SQL, Data Visualization (Matplotlib, Seaborn).
+- **Outcome:** Provided actionable insights that helped enhance service offerings and operational efficiency for both ride-sharing services.
+
+
+### **Soccer Player Valuation Modeling**
+- **Description:** Developed predictive models to estimate soccer player values based on performance data and market trends using statistical and machine learning techniques.
+- **Key Technologies:** Python, Scikit-learn, Regression Analysis, Data Visualization.
+- **Outcome:** Generated player valuations that provided a more accurate market value estimation, useful for clubs and investors in player trading.
+
+
+
+### **Video Summarization for Home Surveillance | Data Visualization and Image Processing**
+- **Description:** Developed and implemented an advanced video summarization algorithm using object tracking technology, enhanced with LSTM and YOLO algorithms.
+- **Key Technologies:** Python, OpenCV, YOLO, LSTM, Object Tracking, Deep Learning.
+- **Outcome:** Achieved a 92% accuracy rate in recognizing over 200+ individuals, significantly improving the efficiency of home surveillance systems by reducing the need for manual video review.
+
+### **Contextual Business Intelligence Assistant using RAG | Data Science and Business Intelligence**
+- **Description:** Created a Retrieval-Augmented Generation (RAG)-based Business Intelligence (BI) Assistant that allowed for real-time data retrieval and enhanced decision-making processes.
+- **Key Technologies:** Elasticsearch, NLP, Generative AI (OpenAI), Business Intelligence.
+- **Outcome:** Reduced the time spent by business leaders on accessing critical insights by 40%, increased retrieval accuracy by 30%, and boosted user engagement by 25%.
+
+### **Advanced Face Recognition System | Image Processing and Deep Learning**
+- **Description:** Developed a robust face recognition system using advanced face detection, alignment, and feature extraction techniques, integrating UltraFace, Haar Cascade, and EfficientNet.
+- **Key Technologies:** Python, OpenCV, Deep Learning (EfficientNet), Face Detection, Neural Networks.
+- **Outcome:** Delivered a highly accurate face recognition system capable of real-time classification, with a strong pipeline for identification across diverse datasets.
+
+### **Stock Analysis and Prediction using Machine Learning**
+- **Description:** Analyzed stock market data and built predictive models using machine learning techniques to forecast future stock prices based on historical trends and technical indicators.
+- **Key Technologies:** Python, Pandas, Scikit-learn, Machine Learning (Regression, Time Series), Data Visualization (Matplotlib, Seaborn).
+- **Outcome:** Developed a stock prediction model that helps investors make more informed decisions, achieving an accuracy rate of 85% in forecasting stock trends.
+
+
+
+
 
 ## 📫 Connect with Me
 
