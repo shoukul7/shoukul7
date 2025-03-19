@@ -1,8 +1,6 @@
 # Shounak Kulkarni
 ## Hi there 👋
-
-Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with expertise in Python, SQL, deep learning, big data analytics, and software development. I specialize in data-driven solutions, machine learning models, and AI-powered applications.
-
+Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a focus on data-driven solutions, machine learning, and AI-powered applications. With a strong foundation in Python, SQL, deep learning, and big data analytics, I specialize in creating impactful models that drive business transformation.
 
 ## 🧰 Skills
 
