@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a foc
 - Conducted research on generative AI models and optimized ML pipelines.
 
 
-#### ** Data Analyst** | Novum Technologies
+#### **Data Analyst** | Novum Technologies
 
 - Conducted image processing-based analysis for gear manufacturing process optimization.
 - Utilized Python and R for data-driven insights to enhance operational efficiency.
