@@ -131,13 +131,16 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with a foc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shoukul7&theme=midnight-purple&hide_border=true" br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"  />
+  <!-- 2025 Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&count_private=true&since=2025-01-01" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shoukul7&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukul7&theme=midnight-purple&hide_border=true&layout=compact&since=2025-01-01" />
 </div>
 
 
 ---
+
+
 
 <p align="center">
   <a href="https://github.com/shoukul7">
