@@ -2,14 +2,49 @@
 ## Hi there 👋
 
 Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with expertise in Python, SQL, deep learning, big data analytics, and software development. I specialize in data-driven solutions, machine learning models, and AI-powered applications.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" title="Snowflake" alt="Snowflake" width="150" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" title="dbt" alt="dbt" width="100" height="40"/>&nbsp;
-</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shounak2202/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shounakkulkarni7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shounak2202@gmail.com) 
+<span style="color: white;">Java</span> - <span style="color: white;">Python</span> - <span style="color: white;">SQL</span> - <span style="color: white;">Tableau</span> - <span style="color: white;">AWS</span> - <span style="color: white;">GitHub</span>
+
+
+## New
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=sas&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-00599C?style=for-the-badge&logo=nosql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Corrplot](https://img.shields.io/badge/Corrplot-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=rest-api&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-217346?style=for-the-badge&logo=data-warehouse&logoColor=white)
+![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![System Integration](https://img.shields.io/badge/System_Integration-FF6C37?style=for-the-badge&logo=integration&logoColor=white)
+![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-61DAF6?style=for-the-badge&logo=agile&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=ci-cd&logoColor)
+
 
 ## 📌 About Me
 
