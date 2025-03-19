@@ -35,13 +35,6 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shoukul7&theme=midnight-purple&hide_border=true" br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"  />
-</div>
 
 
 
@@ -96,6 +89,13 @@ Welcome to my GitHub! I'm a passionate Data Scientist and AI Engineer with exper
 - **GitHub:** [Shounak Kulkarni](https://github.com/shoukul7)
 - **Email:** [shounak2202@gmail.com](mailto:shounak2202@gmail.com) 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shoukul7&theme=midnight-purple&hide_border=true" br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukul7&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"  />
+</div>
 
 
 ---
